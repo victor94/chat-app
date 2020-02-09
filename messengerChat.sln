@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatWebApi", "chatWebApi\chatWebApi.csproj", "{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Release|x64.Build.0 = Release|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD47E535-0F1D-42A7-B0B1-C00736DE62DE}.Release|x86.Build.0 = Release|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Debug|x64.Build.0 = Debug|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Debug|x86.Build.0 = Debug|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Release|x64.ActiveCfg = Release|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Release|x64.Build.0 = Release|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Release|x86.ActiveCfg = Release|Any CPU
+		{F81DE8CE-1F51-4614-B6B8-050E3A659ECB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBB33DB-FEFF-42B2-AD6A-380ADDEFFD84}
+	EndGlobalSection
+EndGlobal
